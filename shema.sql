@@ -1,1 +1,8 @@
-insert 
+INSERT (
+
+
+); 
+
+TABLE (
+
+);
