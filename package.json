@@ -2,11 +2,10 @@
   "name": "u-develop-it",
   "version": "1.0.0",
   "description": "## Description This is a back-end node index.js file that is designed to generate Professional a Read-Me.md file. After a successful follow through of a small amount of steps, questions and processes are responded to.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "jest",
     "start": "node server.js"
-
   },
   "repository": {
     "type": "git",
